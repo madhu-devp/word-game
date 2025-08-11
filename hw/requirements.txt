@@ -1,0 +1,8 @@
+streamlit
+streamlit-drawable-canvas
+pillow
+numpy
+rapidfuzz
+easyocr
+torch
+torchvision
