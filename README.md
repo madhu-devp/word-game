@@ -4,7 +4,7 @@ The game uses **EasyOCR** to detect your drawing and gives a **score** based on 
 
 Try your hand at drawing and see if you can match the word! 🖌️🖼️
 
-🚀 Live Demo
+## 🚀 Live Demo
 Try the game online here: [🌟 Play Word Challenge Online](https://wordgame9980.streamlit.app)  
 
 ## ✨ Features
