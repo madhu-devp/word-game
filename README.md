@@ -1,5 +1,3 @@
-# **Word Game**
-
 ## 📝 Overview
 Welcome to **Word Challenge**, a **fun interactive Python game** where you get a **word** and must **draw it** on a canvas!  
 The game uses **EasyOCR** to detect your drawing and gives a **score** based on how closely it matches the target word. 🏆
