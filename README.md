@@ -4,6 +4,7 @@ The game uses **EasyOCR** to detect your drawing and gives a **score** based on 
 
 ## 🚀 Live Demo
 Try the game online here: [🌟 Play Word Challenge Online](https://wordgame9980.streamlit.app)  
+
 ---
 ## ✨ Features
 - 🎯 Draw the given word on a canvas
@@ -20,10 +21,8 @@ Try the game online here: [🌟 Play Word Challenge Online](https://wordgame9980
 - EasyOCR for text recognition 👀
 - rapidfuzz for fuzzy string matching 🔍
 - Pillow (PIL) for image processing 🖼️
-- Numpy for array manipulation ⚡
 ---
 ## 📩 Contact
-
 Made with ❤️ by Madhu
 📧 Email: [madhu](madhupodilapu999@gmail.com)
 🌐 GitHub: [madhu-devp](https://github.com/madhu-devp)
