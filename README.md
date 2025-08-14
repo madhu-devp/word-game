@@ -4,7 +4,9 @@ The game uses **EasyOCR** to detect your drawing and gives a **score** based on 
 
 Try your hand at drawing and see if you can match the word! 🖌️🖼️
 
----
+---## 🚀 Live Demo
+Try the game online here:  
+[🌟 Play Word Challenge Online](https://wordgame9980.streamlit.app)  
 
 ## ✨ Features
 - 🎯 Draw the given word on a canvas
@@ -13,9 +15,7 @@ Try your hand at drawing and see if you can match the word! 🖌️🖼️
 - 📊 Score system with match percentage
 - 🖼️ Adjustable stroke width for better drawing control
 - 🎈 Fun celebration on correct guesses (balloons!)
-
 ---
-
 ## 💻 Technologies Used
 - Python 3.x 🐍
 - [Streamlit](https://streamlit.io/) 🌐
@@ -24,13 +24,6 @@ Try your hand at drawing and see if you can match the word! 🖌️🖼️
 - rapidfuzz for fuzzy string matching 🔍
 - Pillow (PIL) for image processing 🖼️
 - Numpy for array manipulation ⚡
-
----
-
-## 🚀 Live Demo
-Try the game online here:  
-[🌟 Play Word Challenge Online](https://wordgame9980.streamlit.app)  
-
 
 ## 📩 Contact
 
