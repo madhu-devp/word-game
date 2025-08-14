@@ -1,12 +1,10 @@
 ## 📝 Overview
 Welcome to **Word Challenge**, a **fun interactive Python game** where you get a **word** and must **draw it** on a canvas!  
-The game uses **EasyOCR** to detect your drawing and gives a **score** based on how closely it matches the target word. 🏆
-
-Try your hand at drawing and see if you can match the word! 🖌️🖼️
+The game uses **EasyOCR** to detect your drawing and gives a **score** based on how closely it matches the target word. 🏆🖌️🖼️
 
 ## 🚀 Live Demo
 Try the game online here: [🌟 Play Word Challenge Online](https://wordgame9980.streamlit.app)  
-
+---
 ## ✨ Features
 - 🎯 Draw the given word on a canvas
 - 🏅 OCR-based detection of your drawing
@@ -23,7 +21,7 @@ Try the game online here: [🌟 Play Word Challenge Online](https://wordgame9980
 - rapidfuzz for fuzzy string matching 🔍
 - Pillow (PIL) for image processing 🖼️
 - Numpy for array manipulation ⚡
-
+---
 ## 📩 Contact
 
 Made with ❤️ by Madhu
